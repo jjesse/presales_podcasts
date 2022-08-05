@@ -6,6 +6,13 @@ On one of the talks we discussed Podcasts, Videso, YouTube channels, etc. that w
 
 Hope this list helps, and feel free to contribute
 
+- PreSales Podcast
+
+  - Created by the PreSales Collective
+
+  - Found here: <https://www.presalescollective.com/podcast>
+
+  
 - Download This Show
   
   - Found at <https://jjesse.github.io/presales_podcasts/>
